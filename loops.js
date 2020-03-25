@@ -20,4 +20,10 @@ function whileLoop(n){
 
 function doWhileLoop(n){
   
+  
+}
+
+function incrementVariable() {
+  i = i + 1;
+  return i;
 }

@@ -13,6 +13,6 @@ function whileLoop(n){
   let num = n;
   while(n > 0){
     console.log(n)
-    n--
+    n -= 1;
   }
 }
